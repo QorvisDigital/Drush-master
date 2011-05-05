@@ -1,6 +1,6 @@
 ; $Id$
 
-; makefile for d7-Mexico-portal project
+; standard makefile for d7 project
 
 core = 7.x
 projects[] = drupal
