@@ -6,7 +6,7 @@ core = 7.x
 projects[] = drupal
 api = 2
 
-i dunno what this is yet
+
 ;includes[remote] = "http://drupalcode.org/viewvc/drupal/contributions/profiles/buildkit/drupal-org.make?view=co&pathrev=DRUPAL-7--2"
 
 ; Field Types
